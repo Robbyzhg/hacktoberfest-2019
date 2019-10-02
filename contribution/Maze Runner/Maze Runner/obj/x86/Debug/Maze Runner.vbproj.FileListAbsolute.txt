@@ -1,0 +1,29 @@
+C:\Users\Dimas\AppData\Local\Temporary Projects\Maze Runner\bin\Debug\Maze Runner.exe
+C:\Users\Dimas\AppData\Local\Temporary Projects\Maze Runner\bin\Debug\Maze Runner.pdb
+C:\Users\Dimas\AppData\Local\Temporary Projects\Maze Runner\bin\Debug\Maze Runner.xml
+C:\Users\Dimas\AppData\Local\Temporary Projects\Maze Runner\obj\x86\Debug\Maze_Runner.Form1.resources
+C:\Users\Dimas\AppData\Local\Temporary Projects\Maze Runner\obj\x86\Debug\Maze_Runner.Resources.resources
+C:\Users\Dimas\AppData\Local\Temporary Projects\Maze Runner\obj\x86\Debug\Maze Runner.vbproj.GenerateResource.Cache
+C:\Users\Dimas\AppData\Local\Temporary Projects\Maze Runner\obj\x86\Debug\Maze Runner.exe
+C:\Users\Dimas\AppData\Local\Temporary Projects\Maze Runner\obj\x86\Debug\Maze Runner.xml
+C:\Users\Dimas\AppData\Local\Temporary Projects\Maze Runner\obj\x86\Debug\Maze Runner.pdb
+E:\Dimas\Sekolah\Pemrograman Dasar\Maze Runner\Maze Runner\obj\x86\Debug\Maze Runner.exe
+E:\Dimas\Sekolah\Pemrograman Dasar\Maze Runner\Maze Runner\obj\x86\Debug\Maze Runner.xml
+E:\Dimas\Sekolah\Pemrograman Dasar\Maze Runner\Maze Runner\obj\x86\Debug\Maze Runner.pdb
+E:\Dimas\Sekolah\Pemrograman Dasar\Maze Runner\Maze Runner\bin\Debug\Maze Runner.exe
+E:\Dimas\Sekolah\Pemrograman Dasar\Maze Runner\Maze Runner\bin\Debug\Maze Runner.pdb
+E:\Dimas\Sekolah\Pemrograman Dasar\Maze Runner\Maze Runner\bin\Debug\Maze Runner.xml
+E:\Dimas\Sekolah\Pemrograman Dasar\Maze Runner\Maze Runner\obj\x86\Debug\Maze_Runner.Resources.resources
+E:\Dimas\Sekolah\Pemrograman Dasar\Maze Runner\Maze Runner\obj\x86\Debug\Maze Runner.vbproj.GenerateResource.Cache
+E:\Dimas\Sekolah\Pemrograman Dasar\Maze Runner\Maze Runner\obj\x86\Debug\Maze_Runner.frmMenu.resources
+E:\Dimas\Sekolah\Pemrograman Dasar\Maze Runner\Maze Runner\obj\x86\Debug\Maze_Runner.frmAturan.resources
+E:\Dimas\Sekolah\Pemrograman Dasar\Maze Runner\Maze Runner\obj\x86\Debug\Maze_Runner.frmMainLevel1.resources
+E:\Dimas\Sekolah\Pemrograman Dasar\Maze Runner\Maze Runner\obj\x86\Debug\Maze_Runner.frmMainLevel2.resources
+E:\Dimas\Sekolah\Pemrograman Dasar\Maze Runner\Maze Runner\obj\x86\Debug\Maze_Runner.frmMainLevel3.resources
+E:\Dimas\Sekolah\Pemrograman Dasar\Maze Runner\Maze Runner\obj\x86\Debug\Maze_Runner.frmFinish.resources
+E:\Dimas\Sekolah\Pemrograman Dasar\Maze Runner\Maze Runner\bin\Debug\Interop.WMPLib.dll
+E:\Dimas\Sekolah\Pemrograman Dasar\Maze Runner\Maze Runner\bin\Debug\AxInterop.WMPLib.dll
+E:\Dimas\Sekolah\Pemrograman Dasar\Maze Runner\Maze Runner\obj\x86\Debug\Interop.WMPLib.dll
+E:\Dimas\Sekolah\Pemrograman Dasar\Maze Runner\Maze Runner\obj\x86\Debug\AxInterop.WMPLib.dll
+E:\Dimas\Sekolah\Pemrograman Dasar\Maze Runner\Maze Runner\obj\x86\Debug\Maze Runner.vbproj.ResolveComReference.cache
+E:\Dimas\Sekolah\Pemrograman Dasar\Maze Runner\Maze Runner\obj\x86\Debug\Maze_Runner.frmMainLevel4.resources
