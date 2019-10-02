@@ -1,0 +1,15 @@
+E:\Dimas\Sekolah\Pemrograman Dasar\Aplikasi Kasir\Aplikasi Kasir\bin\Debug\Aplikasi Kasir.exe
+E:\Dimas\Sekolah\Pemrograman Dasar\Aplikasi Kasir\Aplikasi Kasir\bin\Debug\Aplikasi Kasir.pdb
+E:\Dimas\Sekolah\Pemrograman Dasar\Aplikasi Kasir\Aplikasi Kasir\bin\Debug\Aplikasi Kasir.xml
+E:\Dimas\Sekolah\Pemrograman Dasar\Aplikasi Kasir\Aplikasi Kasir\obj\x86\Debug\Aplikasi_Kasir.Resources.resources
+E:\Dimas\Sekolah\Pemrograman Dasar\Aplikasi Kasir\Aplikasi Kasir\obj\x86\Debug\Aplikasi Kasir.vbproj.GenerateResource.Cache
+E:\Dimas\Sekolah\Pemrograman Dasar\Aplikasi Kasir\Aplikasi Kasir\obj\x86\Debug\Aplikasi Kasir.exe
+E:\Dimas\Sekolah\Pemrograman Dasar\Aplikasi Kasir\Aplikasi Kasir\obj\x86\Debug\Aplikasi Kasir.xml
+E:\Dimas\Sekolah\Pemrograman Dasar\Aplikasi Kasir\Aplikasi Kasir\obj\x86\Debug\Aplikasi Kasir.pdb
+E:\Dimas\Sekolah\Pemrograman Dasar\Aplikasi Kasir\Aplikasi Kasir\obj\x86\Debug\Aplikasi_Kasir.frmKasir.resources
+E:\Dimas\Sekolah\Pemrograman Dasar\Aplikasi Kasir\Aplikasi Kasir\obj\x86\Debug\Aplikasi_Kasir.frmMaster.resources
+E:\Dimas\Sekolah\Pemrograman Dasar\Aplikasi Kasir\Aplikasi Kasir\obj\x86\Debug\Aplikasi_Kasir.frmLogin.resources
+E:\Dimas\Sekolah\Pemrograman Dasar\Aplikasi Kasir\Aplikasi Kasir\obj\x86\Debug\Aplikasi_Kasir.frmTambah.resources
+E:\Dimas\Sekolah\Pemrograman Dasar\Aplikasi Kasir\Aplikasi Kasir\obj\x86\Debug\Aplikasi_Kasir.frmTambahUser.resources
+E:\Dimas\Sekolah\Pemrograman Dasar\Aplikasi Kasir\Aplikasi Kasir\obj\x86\Debug\Aplikasi_Kasir.frmChange.resources
+E:\Dimas\Sekolah\Pemrograman Dasar\Aplikasi Kasir\Aplikasi Kasir\obj\x86\Debug\Aplikasi_Kasir.frmShortcut.resources
