@@ -1,0 +1,75 @@
+D:\documents\Documents\SMK MHS\UJK\2015 - 2016\rrpl2\rrpl2\bin\Debug\rrpl2.exe
+D:\documents\Documents\SMK MHS\UJK\2015 - 2016\rrpl2\rrpl2\bin\Debug\rrpl2.pdb
+D:\documents\Documents\SMK MHS\UJK\2015 - 2016\rrpl2\rrpl2\bin\Debug\rrpl2.xml
+D:\documents\Documents\SMK MHS\UJK\2015 - 2016\rrpl2\rrpl2\obj\Debug\ResolveAssemblyReference.cache
+D:\documents\Documents\SMK MHS\UJK\2015 - 2016\rrpl2\rrpl2\obj\Debug\rrpl2.Resources.resources
+D:\documents\Documents\SMK MHS\UJK\2015 - 2016\rrpl2\rrpl2\obj\Debug\rrpl2.vbproj.GenerateResource.Cache
+D:\documents\Documents\SMK MHS\UJK\2015 - 2016\rrpl2\rrpl2\obj\Debug\rrpl2.exe
+D:\documents\Documents\SMK MHS\UJK\2015 - 2016\rrpl2\rrpl2\obj\Debug\rrpl2.xml
+D:\documents\Documents\SMK MHS\UJK\2015 - 2016\rrpl2\rrpl2\obj\Debug\rrpl2.pdb
+D:\documents\Documents\SMK MHS\UJK\2015 - 2016\rrpl2\rrpl2\obj\Debug\rrpl2.frmPasien.resources
+D:\documents\Documents\SMK MHS\UJK\2015 - 2016\rrpl2\rrpl2\obj\Debug\rrpl2.frmObat.resources
+D:\documents\Documents\SMK MHS\UJK\2015 - 2016\rrpl2\rrpl2\obj\Debug\rrpl2.frmJenis.resources
+D:\documents\Documents\SMK MHS\UJK\2015 - 2016\rrpl2\rrpl2\obj\Debug\rrpl2.frmPoli.resources
+D:\documents\Documents\SMK MHS\UJK\2015 - 2016\rrpl2\rrpl2\obj\Debug\rrpl2.frmDokter.resources
+D:\documents\Documents\SMK MHS\UJK\2015 - 2016\rrpl2\rrpl2\obj\Debug\rrpl2.frmChange.resources
+D:\documents\Documents\SMK MHS\UJK\2015 - 2016\rrpl2\rrpl2\obj\Debug\rrpl2.frmLogin.resources
+D:\documents\Documents\SMK MHS\UJK\2015 - 2016\rrpl2\rrpl2\obj\Debug\rrpl2.frmMaster.resources
+D:\documents\Documents\SMK MHS\UJK\2015 - 2016\rrpl2\rrpl2\obj\Debug\rrpl2.frmUserAdd.resources
+D:\documents\Documents\SMK MHS\UJK\2015 - 2016\rrpl2\rrpl2\obj\Debug\rrpl2.frmUserEdit.resources
+D:\documents\Documents\SMK MHS\UJK\2015 - 2016\rrpl2\rrpl2\obj\Debug\rrpl2.frmUserView.resources
+D:\documents\Documents\SMK MHS\UJK\2015 - 2016\rrpl2\rrpl2\obj\Debug\rrpl2.frmCari.resources
+D:\documents\Documents\SMK MHS\UJK\2015 - 2016\rrpl2\rrpl2\obj\Debug\rrpl2.frmRegister.resources
+D:\documents\Documents\SMK MHS\UJK\2015 - 2016\rrpl2\rrpl2\obj\Debug\rrpl2.frmCariObat.resources
+D:\documents\Documents\SMK MHS\UJK\2015 - 2016\rrpl2\rrpl2\obj\Debug\rrpl2.frmDiagnosa.resources
+F:\Day 1\rrpl2\rrpl2\obj\Debug\rrpl2.exe
+F:\Day 1\rrpl2\rrpl2\obj\Debug\rrpl2.xml
+F:\Day 1\rrpl2\rrpl2\obj\Debug\rrpl2.pdb
+F:\Day 1\rrpl2\rrpl2\bin\x86\Debug\rrpl2.exe
+F:\Day 1\rrpl2\rrpl2\bin\x86\Debug\rrpl2.pdb
+F:\Day 1\rrpl2\rrpl2\bin\x86\Debug\rrpl2.xml
+F:\Day 1\rrpl2\rrpl2\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Day 1\rrpl2\rrpl2\obj\x86\Debug\rrpl2.frmCari.resources
+F:\Day 1\rrpl2\rrpl2\obj\x86\Debug\rrpl2.frmCariObat.resources
+F:\Day 1\rrpl2\rrpl2\obj\x86\Debug\rrpl2.frmChange.resources
+F:\Day 1\rrpl2\rrpl2\obj\x86\Debug\rrpl2.frmDiagnosa.resources
+F:\Day 1\rrpl2\rrpl2\obj\x86\Debug\rrpl2.frmDokter.resources
+F:\Day 1\rrpl2\rrpl2\obj\x86\Debug\rrpl2.frmJenis.resources
+F:\Day 1\rrpl2\rrpl2\obj\x86\Debug\rrpl2.frmLogin.resources
+F:\Day 1\rrpl2\rrpl2\obj\x86\Debug\rrpl2.frmMaster.resources
+F:\Day 1\rrpl2\rrpl2\obj\x86\Debug\rrpl2.frmObat.resources
+F:\Day 1\rrpl2\rrpl2\obj\x86\Debug\rrpl2.frmPasien.resources
+F:\Day 1\rrpl2\rrpl2\obj\x86\Debug\rrpl2.frmPoli.resources
+F:\Day 1\rrpl2\rrpl2\obj\x86\Debug\rrpl2.frmRegister.resources
+F:\Day 1\rrpl2\rrpl2\obj\x86\Debug\rrpl2.frmUserAdd.resources
+F:\Day 1\rrpl2\rrpl2\obj\x86\Debug\rrpl2.frmUserEdit.resources
+F:\Day 1\rrpl2\rrpl2\obj\x86\Debug\rrpl2.frmUserView.resources
+F:\Day 1\rrpl2\rrpl2\obj\x86\Debug\rrpl2.Resources.resources
+F:\Day 1\rrpl2\rrpl2\obj\x86\Debug\rrpl2.vbproj.GenerateResource.Cache
+F:\Day 1\rrpl2\rrpl2\obj\x86\Debug\rrpl2.exe
+F:\Day 1\rrpl2\rrpl2\obj\x86\Debug\rrpl2.xml
+F:\Day 1\rrpl2\rrpl2\obj\x86\Debug\rrpl2.pdb
+C:\Users\NOVO\Desktop\rrpl2\rrpl2\obj\x86\Debug\rrpl2.exe
+C:\Users\NOVO\Desktop\rrpl2\rrpl2\obj\x86\Debug\rrpl2.xml
+C:\Users\NOVO\Desktop\rrpl2\rrpl2\obj\x86\Debug\rrpl2.pdb
+C:\Users\NOVO\Desktop\rrpl2\rrpl2\bin\x86\Debug\rrpl2.exe
+C:\Users\NOVO\Desktop\rrpl2\rrpl2\bin\x86\Debug\rrpl2.pdb
+C:\Users\NOVO\Desktop\rrpl2\rrpl2\bin\x86\Debug\rrpl2.xml
+C:\Users\NOVO\Desktop\rrpl2\rrpl2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\NOVO\Desktop\rrpl2\rrpl2\obj\x86\Debug\rrpl2.frmCari.resources
+C:\Users\NOVO\Desktop\rrpl2\rrpl2\obj\x86\Debug\rrpl2.frmCariObat.resources
+C:\Users\NOVO\Desktop\rrpl2\rrpl2\obj\x86\Debug\rrpl2.frmChange.resources
+C:\Users\NOVO\Desktop\rrpl2\rrpl2\obj\x86\Debug\rrpl2.frmDiagnosa.resources
+C:\Users\NOVO\Desktop\rrpl2\rrpl2\obj\x86\Debug\rrpl2.frmDokter.resources
+C:\Users\NOVO\Desktop\rrpl2\rrpl2\obj\x86\Debug\rrpl2.frmJenis.resources
+C:\Users\NOVO\Desktop\rrpl2\rrpl2\obj\x86\Debug\rrpl2.frmLogin.resources
+C:\Users\NOVO\Desktop\rrpl2\rrpl2\obj\x86\Debug\rrpl2.frmMaster.resources
+C:\Users\NOVO\Desktop\rrpl2\rrpl2\obj\x86\Debug\rrpl2.frmObat.resources
+C:\Users\NOVO\Desktop\rrpl2\rrpl2\obj\x86\Debug\rrpl2.frmPasien.resources
+C:\Users\NOVO\Desktop\rrpl2\rrpl2\obj\x86\Debug\rrpl2.frmPoli.resources
+C:\Users\NOVO\Desktop\rrpl2\rrpl2\obj\x86\Debug\rrpl2.frmRegister.resources
+C:\Users\NOVO\Desktop\rrpl2\rrpl2\obj\x86\Debug\rrpl2.frmUserAdd.resources
+C:\Users\NOVO\Desktop\rrpl2\rrpl2\obj\x86\Debug\rrpl2.frmUserEdit.resources
+C:\Users\NOVO\Desktop\rrpl2\rrpl2\obj\x86\Debug\rrpl2.frmUserView.resources
+C:\Users\NOVO\Desktop\rrpl2\rrpl2\obj\x86\Debug\rrpl2.Resources.resources
+C:\Users\NOVO\Desktop\rrpl2\rrpl2\obj\x86\Debug\rrpl2.vbproj.GenerateResource.Cache
