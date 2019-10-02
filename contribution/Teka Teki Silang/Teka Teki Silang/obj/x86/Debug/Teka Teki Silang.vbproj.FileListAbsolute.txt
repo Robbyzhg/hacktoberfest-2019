@@ -1,0 +1,23 @@
+C:\Users\Dimas\Documents\Visual Basic Program\Teka Teki Silang\Teka Teki Silang\bin\Debug\Teka Teki Silang.exe
+C:\Users\Dimas\Documents\Visual Basic Program\Teka Teki Silang\Teka Teki Silang\bin\Debug\Teka Teki Silang.pdb
+C:\Users\Dimas\Documents\Visual Basic Program\Teka Teki Silang\Teka Teki Silang\bin\Debug\Teka Teki Silang.xml
+C:\Users\Dimas\Documents\Visual Basic Program\Teka Teki Silang\Teka Teki Silang\obj\x86\Debug\Teka_Teki_Silang.Form1.resources
+C:\Users\Dimas\Documents\Visual Basic Program\Teka Teki Silang\Teka Teki Silang\obj\x86\Debug\Teka_Teki_Silang.Resources.resources
+C:\Users\Dimas\Documents\Visual Basic Program\Teka Teki Silang\Teka Teki Silang\obj\x86\Debug\Teka Teki Silang.vbproj.GenerateResource.Cache
+C:\Users\Dimas\Documents\Visual Basic Program\Teka Teki Silang\Teka Teki Silang\obj\x86\Debug\Teka Teki Silang.exe
+C:\Users\Dimas\Documents\Visual Basic Program\Teka Teki Silang\Teka Teki Silang\obj\x86\Debug\Teka Teki Silang.xml
+C:\Users\Dimas\Documents\Visual Basic Program\Teka Teki Silang\Teka Teki Silang\obj\x86\Debug\Teka Teki Silang.pdb
+E:\Dimas\Sekolah\Pemrograman Dasar\Teka Teki Silang\Teka Teki Silang\obj\x86\Debug\Teka Teki Silang.exe
+E:\Dimas\Sekolah\Pemrograman Dasar\Teka Teki Silang\Teka Teki Silang\obj\x86\Debug\Teka Teki Silang.xml
+E:\Dimas\Sekolah\Pemrograman Dasar\Teka Teki Silang\Teka Teki Silang\obj\x86\Debug\Teka Teki Silang.pdb
+E:\Dimas\Sekolah\Pemrograman Dasar\Teka Teki Silang\Teka Teki Silang\bin\Debug\Teka Teki Silang.exe
+E:\Dimas\Sekolah\Pemrograman Dasar\Teka Teki Silang\Teka Teki Silang\bin\Debug\Teka Teki Silang.pdb
+E:\Dimas\Sekolah\Pemrograman Dasar\Teka Teki Silang\Teka Teki Silang\bin\Debug\Teka Teki Silang.xml
+E:\Dimas\Sekolah\Pemrograman Dasar\Teka Teki Silang\Teka Teki Silang\obj\x86\Debug\Teka Teki Silang.vbproj.GenerateResource.Cache
+E:\Dimas\Sekolah\Pemrograman Dasar\Teka Teki Silang\Teka Teki Silang\obj\x86\Debug\TTS_Dimas.frmMain.resources
+E:\Dimas\Sekolah\Pemrograman Dasar\Teka Teki Silang\Teka Teki Silang\obj\x86\Debug\TTS_Dimas.frmMenu.resources
+E:\Dimas\Sekolah\Pemrograman Dasar\Teka Teki Silang\Teka Teki Silang\obj\x86\Debug\TTS_Dimas.Resources.resources
+E:\Dimas\Sekolah\Pemrograman Dasar\Teka Teki Silang\Teka Teki Silang\bin\Debug\Teka Teki Silang.exe.manifest
+E:\Dimas\Sekolah\Pemrograman Dasar\Teka Teki Silang\Teka Teki Silang\bin\Debug\Teka Teki Silang.application
+E:\Dimas\Sekolah\Pemrograman Dasar\Teka Teki Silang\Teka Teki Silang\obj\x86\Debug\Teka Teki Silang.exe.manifest
+E:\Dimas\Sekolah\Pemrograman Dasar\Teka Teki Silang\Teka Teki Silang\obj\x86\Debug\Teka Teki Silang.application
