@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Program Absensi", "Program Absensi\Program Absensi.vdproj", "{84ECF4AE-5A04-4DC0-BCCE-9F090FADDEDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84ECF4AE-5A04-4DC0-BCCE-9F090FADDEDD}.Debug|Default.ActiveCfg = Debug
+		{84ECF4AE-5A04-4DC0-BCCE-9F090FADDEDD}.Debug|Default.Build.0 = Debug
+		{84ECF4AE-5A04-4DC0-BCCE-9F090FADDEDD}.Release|Default.ActiveCfg = Release
+		{84ECF4AE-5A04-4DC0-BCCE-9F090FADDEDD}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

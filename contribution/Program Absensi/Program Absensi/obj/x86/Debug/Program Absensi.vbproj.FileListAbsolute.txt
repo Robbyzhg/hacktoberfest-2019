@@ -1,0 +1,19 @@
+E:\Dimas\Sekolah\Pemrograman Dasar\Program Absensi\Program Absensi\bin\Debug\Program Absensi.exe
+E:\Dimas\Sekolah\Pemrograman Dasar\Program Absensi\Program Absensi\bin\Debug\Program Absensi.pdb
+E:\Dimas\Sekolah\Pemrograman Dasar\Program Absensi\Program Absensi\bin\Debug\Program Absensi.xml
+E:\Dimas\Sekolah\Pemrograman Dasar\Program Absensi\Program Absensi\obj\x86\Debug\Program_Absensi.Resources.resources
+E:\Dimas\Sekolah\Pemrograman Dasar\Program Absensi\Program Absensi\obj\x86\Debug\Program Absensi.vbproj.GenerateResource.Cache
+E:\Dimas\Sekolah\Pemrograman Dasar\Program Absensi\Program Absensi\obj\x86\Debug\Program Absensi.exe
+E:\Dimas\Sekolah\Pemrograman Dasar\Program Absensi\Program Absensi\obj\x86\Debug\Program Absensi.xml
+E:\Dimas\Sekolah\Pemrograman Dasar\Program Absensi\Program Absensi\obj\x86\Debug\Program Absensi.pdb
+E:\Dimas\Sekolah\Pemrograman Dasar\Program Absensi\Program Absensi\obj\x86\Debug\Program_Absensi.frmabsen.resources
+E:\Dimas\Sekolah\Pemrograman Dasar\Program Absensi\Program Absensi\obj\x86\Debug\Program_Absensi.frminsert.resources
+E:\Dimas\Sekolah\Pemrograman Dasar\Program Absensi\Program Absensi\obj\x86\Debug\Program_Absensi.frmlistabsen.resources
+E:\Dimas\Sekolah\Pemrograman Dasar\Program Absensi\Program Absensi\obj\x86\Debug\Program_Absensi.frmhapus.resources
+E:\Dimas\Sekolah\Pemrograman Dasar\Program Absensi\Program Absensi\obj\x86\Debug\Program_Absensi.frmlogin.resources
+E:\Dimas\Sekolah\Pemrograman Dasar\Program Absensi\Program Absensi\obj\x86\Debug\Program_Absensi.frmmaster.resources
+E:\Dimas\Sekolah\Pemrograman Dasar\Program Absensi\Program Absensi\obj\x86\Debug\Program_Absensi.frmtambah.resources
+E:\Dimas\Sekolah\Pemrograman Dasar\Program Absensi\Program Absensi\bin\Debug\Program Absensi.exe.manifest
+E:\Dimas\Sekolah\Pemrograman Dasar\Program Absensi\Program Absensi\bin\Debug\Program Absensi.application
+E:\Dimas\Sekolah\Pemrograman Dasar\Program Absensi\Program Absensi\obj\x86\Debug\Program Absensi.exe.manifest
+E:\Dimas\Sekolah\Pemrograman Dasar\Program Absensi\Program Absensi\obj\x86\Debug\Program Absensi.application

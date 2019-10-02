@@ -1,0 +1,2 @@
+frminsert.vb = cmbkelas > edit items
+frminsert.vb = pick kelas => ketik nama siswa => 'enter'
